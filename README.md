@@ -1,4 +1,5 @@
 🌟 HR Analytics Dashboard 🌟
+
 🚀 Project Overview
 Welcome to the HR Analytics Dashboard—a powerful Power BI tool designed to illuminate the factors driving employee attrition and empower HR teams with actionable insights. This dashboard turns complex HR data into clear, actionable information to help organizations enhance retention strategies and make data-driven decisions.
 
@@ -22,4 +23,4 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 A heartfelt thank you to Rishabh Mishra for the invaluable support and guidance throughout this project. Your expertise was instrumental in bringing this dashboard to life.
 #HRAnalytics #PowerBI #DataVisualization #EmployeeAttrition #HRTech #DataDriven #WorkforceManagement
 
-# PowerBI-Dashboard
+# HR_Analytics Dashboard
